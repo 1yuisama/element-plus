@@ -23,7 +23,7 @@
       </el-form-item>
       <el-form-item label="Zones" :label-width="formLabelWidth">
         <el-select v-model="form.region" placeholder="Please select a zone">
-          <el-option label="Zone No.1" value="shanghai" />
+          <el-option label="Zone No.100000" value="shanghai" />
           <el-option label="Zone No.2" value="beijing" />
         </el-select>
       </el-form-item>
